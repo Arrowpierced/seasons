@@ -1,4 +1,6 @@
-# This project was created from a Udemy tutorial from a course called "Modern React with Redux" by Stephen Grider
+# Credit
+
+This project was created from a Udemy tutorial from a course called "Modern React with Redux" by Stephen Grider
 
 # Getting Started with Create React App
 
